@@ -2,4 +2,4 @@ mempelajari pemrograman php sederhana
 mempelajari oop
 mempelajari freamwork
 menambahkan commit
-mempelajari git
+

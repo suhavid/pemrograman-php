@@ -1,0 +1,2 @@
+mempelajari pemrograman php sederhana
+mempelajari oop
